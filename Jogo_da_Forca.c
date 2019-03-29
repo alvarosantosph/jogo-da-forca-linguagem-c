@@ -1,7 +1,8 @@
 /*
- * UNIPÊ - Centro Universiátio de João Pessoa
- * Curso: Ciência da Computação - 2° Período - Turma B / 2016
- * Disciplina: Introdução a Linguagem de Programação - 3° Estágio - Projeto Final.
+ * @Author: Alvaro Santos
+ * UNIPÃŠ - Centro UniversiÃ¡tio de JoÃ£o Pessoa
+ * Curso: CiÃªncia da ComputaÃ§Ã£o - 2Â° PerÃ­odo - Turma B / 2016
+ * Disciplina: IntroduÃ§Ã£o a Linguagem de ProgramaÃ§Ã£o - 3Â° EstÃ¡gio - Projeto Final.
  * Professor: Renato Leite
  * Grupo C.
  * Jogo da Forca.
