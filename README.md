@@ -1,7 +1,7 @@
 # JOGO DA FORCA DESENVOLVIDO NA LINGUAGEM C
 
 ```sh
-Assembly
+Plataforma de Desenvolvimento - Linguagem C
 ```
 
 ### Desenvolvedor:
