@@ -1,5 +1,9 @@
-# Jogo-da-Forca-C
-# @Author: Alvaro Santos
+# JOGO DA FORCA DESENVOLVIDO NA LINGUAGEM C
+
 ```sh
-Projeto Final -  3° Estagio -  Introd. Ling. Prog. CCp2 UNIPÊ
+Assembly
 ```
+
+### Desenvolvedor:
+
+* Alvaro Santos
